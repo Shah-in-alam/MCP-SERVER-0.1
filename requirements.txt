@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+requests
+beautifulsoup4
+yfinance
+python-dotenv
+google-api-python-client
+google-auth
+google-auth-oauthlib
+python-dateutil 
